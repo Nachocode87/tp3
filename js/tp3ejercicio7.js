@@ -13,4 +13,4 @@ function tabla(numeroIngresado) {
 
 let numero = parseInt(window.prompt("escriba un numero"));
 
-tabla(numero);
+tabla(numero);git 
